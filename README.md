@@ -23,8 +23,8 @@ Result Visualization: Highlight fractures on original image.
 
 ## PROGRAM:
 
-> Developed by: Sri Varshan P
-> Register No: 212222240104
+> Developed by:PRAVEEN S
+> Register No: 212222240078
 
 ```python
 import cv2
